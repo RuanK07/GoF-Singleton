@@ -1,7 +1,7 @@
 # GoF-Singleton
 Studying the theory and implementation of Design Patterns
 
-# Sobre o projeto
+## Sobre o projeto
 
 O Singleton é um padrão de projeto de criação que garante a existência de apenas uma instância de uma classe
 e fornece um ponto de acesso global, ela usa um construtor privado e um método estático para controlar a criação
